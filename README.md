@@ -2,3 +2,4 @@ genshi-cli
 ==========
 
 test
+test
